@@ -9,6 +9,9 @@ The analysis is implemented in a Jupyter Notebook and includes:
 - model training and evaluation
 - prediction of heart disease risk
 
+## Code:
+The ipynb notebook is attached in this directory.
+
 ## Dataset used:
 This project uses the "Heart Failure Prediction Dataset" by fedesoriano, available on Kaggle.
 
